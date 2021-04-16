@@ -1,0 +1,21 @@
+a {
+    display: block;
+
+    color: white;
+
+    width: 230px;
+    height: 40px;
+
+    background-color: #55585a;
+
+    font-size: 14px;
+
+    text-decoration: none;
+
+    text-indent: 2em;
+
+}
+
+a:hover {
+    background-color: coral;
+}
