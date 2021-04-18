@@ -1,0 +1,31 @@
+.nav a {
+    display: inline-block;
+
+    width: 120px;
+    height: 60px;
+
+    text-decoration: none;
+    text-align: center;
+
+    line-height: 50px;
+
+    color: white;
+
+}
+
+.nav .bg1 {
+    background: url("../images/nav-color/bg1.png") no-repeat;
+}
+
+.nav .bg1:hover {
+    background: url("../images/nav-color/bg2.png") no-repeat;
+}
+
+#bg2 {
+    background: url("../images/nav-color/bg3.png") no-repeat;
+}
+
+#bg2:hover {
+    background: url("../images/nav-color/bg4.png") no-repeat;
+}
+
