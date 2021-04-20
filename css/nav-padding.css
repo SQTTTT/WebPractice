@@ -1,0 +1,33 @@
+.box {
+    border-top: coral 3px solid;
+
+    border-bottom: #edeef0 1px solid;
+
+    height: 41px;
+
+    line-height: 41px;
+
+    background: #fcfcfc;
+}
+
+.title {
+
+    display: inline-block;
+
+    text-decoration: none;
+    color: #4c4c4c;
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+    border-collapse: collapse;
+
+
+
+    text-align: center;
+}
+
+.title:hover {
+    background: pink;
+    color: coral;
+}
