@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.box {
+    width: 298px;
+    height: 415px;
+
+    margin:100px auto;
+
+    background-color: white;
+}
+
+.box img {
+    width: 100%;
+}
+
+.review {
+    margin-top: 20px;
+    padding:0 28px;
+    height: 80px;
+    font-size: 14px;
+}
+
+.approval {
+    margin-top: 20px;
+    padding:0 28px;
+}
+
+.approval .user {
+
+    color: darkgray;
+    font-size: 12px;
+
+}
+
+.approval .name {
+    display: inline;
+    font-size: 12px;
+    width: 60px;
+    color: #4c4c4c;
+    text-decoration: none;
+}
+
+.approval .price {
+    color: coral;
+    display: inline;
+    font-size: 12px;
+    text-align: right;
+}
